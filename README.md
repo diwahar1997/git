@@ -1,1 +1,2 @@
 "# git" 
+ECHO is on.
